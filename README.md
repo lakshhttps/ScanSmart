@@ -117,7 +117,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Built with ❤️ by **Laksh Arora**  
 - 🔗 [GitHub Profile](https://github.com/lakshhttps)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your_linkedin_username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laksh-arora-490ba725b/)
 - 🐦 [X (Twitter)](https://x.com/hacknhash)
   
 
