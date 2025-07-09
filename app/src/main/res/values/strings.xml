@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScanSmart</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="if_already_registered_click_here">If already registered, CLICK HERE</string>
+    <string name="enter_unique_id">Enter Unique ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="made_with_by_laksh_arora">Made with ❤️  by Laksh Arora</string>
+    <string name="welcome_to_scansmart">Welcome to ScanSmart</string>
+    <string name="scan">Scan</string>
+    <string name="generate">Generate</string>
+    <string name="generate_qr_codes_and_barcodes">Generate QR Codes and Barcodes</string>
+    <string name="enter_text_to_encode">Enter Text to Encode</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="scansmart">ScanSmart</string>
+    <string name="point_scan_go">Point. Scan. Go.</string>
+</resources>
