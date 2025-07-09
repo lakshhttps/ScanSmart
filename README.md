@@ -77,9 +77,8 @@
 
 ## 📦 APK Download
 
+👉  [Download APK](https://github.com/lakshhttps/ScanSmart/releases/latest)
 
-
-👉 [Releases](https://github.com/lakshhttps/ScanSmart/releases)
 
 ---
 
@@ -118,6 +117,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Built with ❤️ by **Laksh Arora**  
 - 🔗 [GitHub Profile](https://github.com/lakshhttps)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your_linkedin_username)
+- 🐦 [X (Twitter)](https://x.com/hacknhash)
+  
 
 If you found this useful, consider starring ⭐ the repository and sharing with others!
 
